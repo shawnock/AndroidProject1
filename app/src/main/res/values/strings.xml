@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidProject1</string>
+    <string name="my_button_text">my_button</string>
+    <string name="enter_a_number">enter a number</string>
+    <string name="convert">convert</string>
+    <string name="enter_the_base_for_this_number">enter a base for this number</string>
+    <string name="enter_a_base_for_conversion">enter a base for conversion</string>
+    <string name="the_answer_is_calculating">the answer will be here</string>
+    <string name="Error">Error</string>
+    <string name="Number_format_exception_occurred_Please_check_your_input">Number format exception occurred. Please check your input.</string>
+    <string name="Calculating_now">Done!</string>
+</resources>
