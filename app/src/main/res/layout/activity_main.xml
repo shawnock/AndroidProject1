@@ -68,8 +68,10 @@
 
             <TextView
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/yellow"
                 android:id="@+id/output"
+                android:textSize="32sp"
                 android:layout_below="@id/button"
                 android:text="@string/the_answer_is_calculating"
                 android:textAlignment="center"/>
